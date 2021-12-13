@@ -23,6 +23,7 @@ public class CameraRecoil : MonoBehaviour
             snappiness,
             returnSpeed;
 
+    Transform Camera;
     void Start()
     {
     }

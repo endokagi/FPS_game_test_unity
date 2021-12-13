@@ -56,15 +56,6 @@ public class Gun : MonoBehaviour
         CameraRecoil_Script.RecoilFire();
     }
 
-    // private void AddRecoil()
-    // {
-    //     float recX = Random.Range(minX, maxX);
-    //     float recY = Random.Range(minY, maxY);
-
-    //     camera.transform.localRotation =
-    //         Quaternion.Euler(rot.x - recY, rot.y + recX, rot.z);
-    // }
-
     IEnumerator HideMuzzle(float secondUntilDestroy)
     {
         yield return new WaitForSeconds(secondUntilDestroy);

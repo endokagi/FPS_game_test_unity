@@ -350,7 +350,6 @@
 "Assets/Scripts/CameraRecoil.cs"
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/Gun.cs"
-"Assets/Scripts/GunRecoil.cs"
 "Assets/Scripts/mouselook.cs"
 "Assets/Scripts/MoveCamera.cs"
 "Assets/Scripts/PlayerMovement.cs"
