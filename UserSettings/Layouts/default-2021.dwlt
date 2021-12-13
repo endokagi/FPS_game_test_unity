@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 48
+  controlID: 117
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 49
+  controlID: 118
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 50
+  controlID: 119
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 17
+  controlID: 63
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -357,8 +357,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8cf9ffff
-      m_LastClickedID: -1652
+      m_SelectedIDs: def9ffff
+      m_LastClickedID: -1570
       m_ExpandedIDs: b8f9ffffbcf9ffffc6f9ffffccf9ffff20fbffff6e590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -608,9 +608,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.896581, y: -0.9446729, z: 37.655678}
+    m_Target: {x: 14.104846, y: -0.60616916, z: 38.74118}
     speed: 2
-    m_Value: {x: 13.896581, y: -0.9446729, z: 37.655678}
+    m_Value: {x: 14.104846, y: -0.60616916, z: 38.74118}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -657,9 +657,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.12279965, y: 0.7864547, z: -0.16589998, w: -0.58213925}
+    m_Target: {x: -0.13952178, y: 0.81210613, z: -0.21638475, w: -0.5236384}
     speed: 2
-    m_Value: {x: -0.12279967, y: 0.7864548, z: -0.1659, w: -0.5821394}
+    m_Value: {x: -0.13952163, y: 0.81210524, z: -0.21638452, w: -0.5236379}
   m_Size:
     m_Target: 0.7845945
     speed: 2
@@ -737,13 +737,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Asus\Documents\game_unity\FPS_game_test
+  m_LastProjectPath: C:\Users\Asus\Documents\GitHub\FPS_game_test_unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e5c0000
-    m_LastClickedID: 23662
+    m_SelectedIDs: 625c0000
+    m_LastClickedID: 23650
     m_ExpandedIDs: 000000003a5c00003c5c00003e5c0000405c0000425c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
